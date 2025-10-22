@@ -1,8 +1,14 @@
 [
   {
     "name": "wheat",
-    "date": "20/10/2025",
+    "date": "2025-10-22 15:51:59 UTC",
     "currency": "USd/Bu",
-    "value": "507.77"
+    "value": "503.2008"
+  },
+  {
+    "name": "wheat",
+    "date": "2025-10-22 15:53:38 UTC",
+    "currency": "USd/Bu",
+    "value": "503.2008"
   }
 ]
