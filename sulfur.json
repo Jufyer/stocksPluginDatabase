@@ -100,5 +100,11 @@
     "date": "2025-10-23 03:00:01 UTC",
     "currency": "CNY/T",
     "value": "2984.33"
+  },
+  {
+    "name": "sulfur",
+    "date": "2025-10-23 03:30:01 UTC",
+    "currency": "CNY/T",
+    "value": "2984.33"
   }
 ]
