@@ -286,5 +286,11 @@
     "date": "2025-10-23 18:30:02 UTC",
     "currency": "USD/MMBtu",
     "value": "3.3405"
+  },
+  {
+    "name": "natural-gas",
+    "date": "2025-10-23 19:00:01 UTC",
+    "currency": "USD/MMBtu",
+    "value": "3.3098"
   }
 ]
