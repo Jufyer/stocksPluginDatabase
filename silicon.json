@@ -1042,5 +1042,11 @@
     "date": "2025-10-26 09:30:02 UTC",
     "currency": "CNY/T",
     "value": "8570.0"
+  },
+  {
+    "name": "silicon",
+    "date": "2025-10-26 10:00:02 UTC",
+    "currency": "CNY/T",
+    "value": "8570.0"
   }
 ]
