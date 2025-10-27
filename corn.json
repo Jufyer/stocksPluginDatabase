@@ -1408,5 +1408,11 @@
     "date": "2025-10-27 16:00:03 UTC",
     "currency": "USd/BU",
     "value": "428.8368"
+  },
+  {
+    "name": "corn",
+    "date": "2025-10-27 16:30:01 UTC",
+    "currency": "USd/BU",
+    "value": "430.23"
   }
 ]
