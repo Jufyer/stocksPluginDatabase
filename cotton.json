@@ -2008,5 +2008,11 @@
     "date": "2025-10-29 18:00:01 UTC",
     "currency": "USd/Lbs",
     "value": "65.8468"
+  },
+  {
+    "name": "cotton",
+    "date": "2025-10-29 18:30:01 UTC",
+    "currency": "USd/Lbs",
+    "value": "65.8848"
   }
 ]
