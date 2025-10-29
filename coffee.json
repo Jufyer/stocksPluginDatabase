@@ -2020,5 +2020,11 @@
     "date": "2025-10-29 19:00:02 UTC",
     "currency": "USd/Lbs",
     "value": "391.3586"
+  },
+  {
+    "name": "coffee",
+    "date": "2025-10-29 19:30:02 UTC",
+    "currency": "USd/Lbs",
+    "value": "391.3768"
   }
 ]
