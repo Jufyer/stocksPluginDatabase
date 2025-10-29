@@ -1804,5 +1804,11 @@
     "date": "2025-10-29 01:00:02 UTC",
     "currency": "USD/Lbs",
     "value": "5.1453"
+  },
+  {
+    "name": "copper",
+    "date": "2025-10-29 01:30:02 UTC",
+    "currency": "USD/Lbs",
+    "value": "5.1435"
   }
 ]
