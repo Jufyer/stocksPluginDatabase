@@ -3616,5 +3616,11 @@
     "date": "2025-11-04 08:00:01 UTC",
     "currency": "CNY/T",
     "value": "3261.0"
+  },
+  {
+    "name": "sulfur",
+    "date": "2025-11-04 08:30:02 UTC",
+    "currency": "CNY/T",
+    "value": "3261.0"
   }
 ]
