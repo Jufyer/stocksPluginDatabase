@@ -3940,5 +3940,11 @@
     "date": "2025-11-05 11:00:01 UTC",
     "currency": "USd/Lbs",
     "value": "406.2786"
+  },
+  {
+    "name": "coffee",
+    "date": "2025-11-05 11:30:02 UTC",
+    "currency": "USd/Lbs",
+    "value": "408.6888"
   }
 ]
