@@ -6130,5 +6130,11 @@
     "date": "2025-11-13 01:30:02 UTC",
     "currency": "USd/Lbs",
     "value": "63.3138"
+  },
+  {
+    "name": "cotton",
+    "date": "2025-11-13 02:00:01 UTC",
+    "currency": "USd/Lbs",
+    "value": "63.3138"
   }
 ]
