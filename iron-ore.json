@@ -6262,5 +6262,11 @@
     "date": "2025-11-13 12:30:02 UTC",
     "currency": "USD/T",
     "value": "104.17"
+  },
+  {
+    "name": "iron-ore",
+    "date": "2025-11-13 13:00:02 UTC",
+    "currency": "USD/T",
+    "value": "104.17"
   }
 ]
