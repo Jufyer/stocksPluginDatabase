@@ -6640,5 +6640,11 @@
     "date": "2025-11-14 20:00:02 UTC",
     "currency": "USD/t",
     "value": "7975.0"
+  },
+  {
+    "name": "rhodium",
+    "date": "2025-11-14 20:30:02 UTC",
+    "currency": "USD/t",
+    "value": "8100.0"
   }
 ]
