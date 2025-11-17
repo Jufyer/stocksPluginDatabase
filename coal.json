@@ -7264,5 +7264,11 @@
     "date": "2025-11-17 00:00:03 UTC",
     "currency": "USD/T",
     "value": "109.55"
+  },
+  {
+    "name": "coal",
+    "date": "2025-11-17 00:30:02 UTC",
+    "currency": "USD/T",
+    "value": "110.6"
   }
 ]
