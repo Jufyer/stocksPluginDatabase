@@ -7726,5 +7726,11 @@
     "date": "2025-11-18 14:30:02 UTC",
     "currency": "USd/Lbs",
     "value": "221.487"
+  },
+  {
+    "name": "live-cattle",
+    "date": "2025-11-18 15:00:02 UTC",
+    "currency": "USd/Lbs",
+    "value": "220.9171"
   }
 ]
