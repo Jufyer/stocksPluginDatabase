@@ -8026,5 +8026,11 @@
     "date": "2025-11-19 15:30:02 UTC",
     "currency": "USD/t.oz",
     "value": "1560.8"
+  },
+  {
+    "name": "platinum",
+    "date": "2025-11-19 16:00:02 UTC",
+    "currency": "USD/t.oz",
+    "value": "1552.5"
   }
 ]
