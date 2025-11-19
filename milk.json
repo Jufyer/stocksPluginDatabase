@@ -8086,5 +8086,11 @@
     "date": "2025-11-19 20:30:02 UTC",
     "currency": "USD/CWT",
     "value": "17.22"
+  },
+  {
+    "name": "milk",
+    "date": "2025-11-19 21:00:01 UTC",
+    "currency": "USD/CWT",
+    "value": "17.22"
   }
 ]
