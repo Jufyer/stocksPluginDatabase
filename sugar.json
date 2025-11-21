@@ -8626,5 +8626,11 @@
     "date": "2025-11-21 17:30:01 UTC",
     "currency": "USd/Lbs",
     "value": "14.7179"
+  },
+  {
+    "name": "sugar",
+    "date": "2025-11-21 18:00:02 UTC",
+    "currency": "USd/Lbs",
+    "value": "14.7078"
   }
 ]
