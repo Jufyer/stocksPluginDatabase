@@ -8902,5 +8902,11 @@
     "date": "2025-11-22 16:30:01 UTC",
     "currency": "USD/T",
     "value": "48570.0"
+  },
+  {
+    "name": "cobalt",
+    "date": "2025-11-22 17:00:02 UTC",
+    "currency": "USD/T",
+    "value": "48570.0"
   }
 ]
