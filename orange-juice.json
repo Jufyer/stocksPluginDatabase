@@ -9094,5 +9094,11 @@
     "date": "2025-11-23 08:30:02 UTC",
     "currency": "USd/Lbs",
     "value": "142.4"
+  },
+  {
+    "name": "orange-juice",
+    "date": "2025-11-23 09:00:02 UTC",
+    "currency": "USd/Lbs",
+    "value": "142.4"
   }
 ]
