@@ -9952,5 +9952,11 @@
     "date": "2025-11-26 08:00:01 UTC",
     "currency": "USD/Lbs",
     "value": "76.15"
+  },
+  {
+    "name": "uranium",
+    "date": "2025-11-26 08:30:01 UTC",
+    "currency": "USD/Lbs",
+    "value": "76.15"
   }
 ]
