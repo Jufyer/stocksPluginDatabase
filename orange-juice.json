@@ -10360,5 +10360,11 @@
     "date": "2025-11-27 18:00:01 UTC",
     "currency": "USd/Lbs",
     "value": "150.0646"
+  },
+  {
+    "name": "orange-juice",
+    "date": "2025-11-27 18:30:02 UTC",
+    "currency": "USd/Lbs",
+    "value": "150.0583"
   }
 ]
