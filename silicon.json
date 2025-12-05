@@ -12694,5 +12694,11 @@
     "date": "2025-12-05 20:30:02 UTC",
     "currency": "CNY/T",
     "value": "8805.0"
+  },
+  {
+    "name": "silicon",
+    "date": "2025-12-05 21:00:01 UTC",
+    "currency": "CNY/T",
+    "value": "8805.0"
   }
 ]
