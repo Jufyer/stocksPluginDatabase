@@ -17776,5 +17776,11 @@
     "date": "2025-12-23 12:00:01 UTC",
     "currency": "USd/Bu",
     "value": "515.636"
+  },
+  {
+    "name": "wheat",
+    "date": "2025-12-23 12:30:01 UTC",
+    "currency": "USd/Bu",
+    "value": "514.9141"
   }
 ]
