@@ -18010,5 +18010,11 @@
     "date": "2025-12-24 07:30:02 UTC",
     "currency": "USD/t.oz",
     "value": "4493.18"
+  },
+  {
+    "name": "gold",
+    "date": "2025-12-24 08:00:02 UTC",
+    "currency": "USD/t.oz",
+    "value": "4483.42"
   }
 ]
