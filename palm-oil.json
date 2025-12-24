@@ -18046,5 +18046,11 @@
     "date": "2025-12-24 10:30:01 UTC",
     "currency": "MYR/T",
     "value": "4036.0"
+  },
+  {
+    "name": "palm-oil",
+    "date": "2025-12-24 11:00:01 UTC",
+    "currency": "MYR/T",
+    "value": "4035.0"
   }
 ]
