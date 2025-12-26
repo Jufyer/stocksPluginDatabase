@@ -18610,5 +18610,11 @@
     "date": "2025-12-26 09:30:01 UTC",
     "currency": "USD/Bbl",
     "value": "58.5601"
+  },
+  {
+    "name": "crude-oil",
+    "date": "2025-12-26 10:00:02 UTC",
+    "currency": "USD/Bbl",
+    "value": "58.4047"
   }
 ]
