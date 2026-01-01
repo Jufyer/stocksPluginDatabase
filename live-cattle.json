@@ -20332,5 +20332,11 @@
     "date": "2026-01-01 09:00:02 UTC",
     "currency": "USd/Lbs",
     "value": "232.325"
+  },
+  {
+    "name": "live-cattle",
+    "date": "2026-01-01 09:30:01 UTC",
+    "currency": "USd/Lbs",
+    "value": "231.679"
   }
 ]
