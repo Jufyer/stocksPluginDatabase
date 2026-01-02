@@ -20704,5 +20704,11 @@
     "date": "2026-01-02 16:00:01 UTC",
     "currency": "USd/Lbs",
     "value": "63.9726"
+  },
+  {
+    "name": "cotton",
+    "date": "2026-01-02 16:30:01 UTC",
+    "currency": "USd/Lbs",
+    "value": "63.7962"
   }
 ]
