@@ -20830,5 +20830,11 @@
     "date": "2026-01-03 02:30:02 UTC",
     "currency": "CNY/Kg",
     "value": "2825.0"
+  },
+  {
+    "name": "indium",
+    "date": "2026-01-03 03:00:02 UTC",
+    "currency": "CNY/Kg",
+    "value": "2825.0"
   }
 ]
