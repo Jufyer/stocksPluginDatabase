@@ -21244,5 +21244,11 @@
     "date": "2026-01-04 13:00:01 UTC",
     "currency": "USd/Bu",
     "value": "507.0"
+  },
+  {
+    "name": "wheat",
+    "date": "2026-01-04 13:30:02 UTC",
+    "currency": "USd/Bu",
+    "value": "507.0"
   }
 ]
