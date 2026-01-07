@@ -22042,5 +22042,11 @@
     "date": "2026-01-07 07:30:02 UTC",
     "currency": "CNY/T",
     "value": "3700.0"
+  },
+  {
+    "name": "sulfur",
+    "date": "2026-01-07 08:00:02 UTC",
+    "currency": "CNY/T",
+    "value": "3700.0"
   }
 ]
