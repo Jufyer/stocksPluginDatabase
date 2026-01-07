@@ -22084,5 +22084,11 @@
     "date": "2026-01-07 11:00:02 UTC",
     "currency": "USD/Lbs",
     "value": "5.9406"
+  },
+  {
+    "name": "copper",
+    "date": "2026-01-07 11:30:02 UTC",
+    "currency": "USD/Lbs",
+    "value": "5.9332"
   }
 ]
