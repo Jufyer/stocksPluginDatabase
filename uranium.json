@@ -23602,5 +23602,11 @@
     "date": "2026-01-12 17:30:01 UTC",
     "currency": "USD/Lbs",
     "value": "82.75"
+  },
+  {
+    "name": "uranium",
+    "date": "2026-01-12 18:00:02 UTC",
+    "currency": "USD/Lbs",
+    "value": "82.75"
   }
 ]
