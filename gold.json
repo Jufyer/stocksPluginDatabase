@@ -23566,5 +23566,11 @@
     "date": "2026-01-12 14:30:02 UTC",
     "currency": "USD/t.oz",
     "value": "4596.91"
+  },
+  {
+    "name": "gold",
+    "date": "2026-01-12 15:00:02 UTC",
+    "currency": "USD/t.oz",
+    "value": "4606.29"
   }
 ]
