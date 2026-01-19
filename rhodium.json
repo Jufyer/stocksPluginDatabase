@@ -25678,5 +25678,11 @@
     "date": "2026-01-19 22:30:01 UTC",
     "currency": "USD/t.oz",
     "value": "10100.0"
+  },
+  {
+    "name": "rhodium",
+    "date": "2026-01-19 23:00:02 UTC",
+    "currency": "USD/t.oz",
+    "value": "10100.0"
   }
 ]
