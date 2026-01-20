@@ -25756,5 +25756,11 @@
     "date": "2026-01-20 05:00:01 UTC",
     "currency": "USD/T",
     "value": "109.1"
+  },
+  {
+    "name": "coal",
+    "date": "2026-01-20 05:30:01 UTC",
+    "currency": "USD/T",
+    "value": "109.1"
   }
 ]
