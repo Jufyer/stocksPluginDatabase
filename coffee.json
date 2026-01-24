@@ -27064,5 +27064,11 @@
     "date": "2026-01-24 18:00:01 UTC",
     "currency": "USd/Lbs",
     "value": "351.45"
+  },
+  {
+    "name": "coffee",
+    "date": "2026-01-24 18:30:01 UTC",
+    "currency": "USd/Lbs",
+    "value": "351.45"
   }
 ]
