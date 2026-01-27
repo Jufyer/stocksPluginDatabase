@@ -27730,5 +27730,11 @@
     "date": "2026-01-27 01:30:02 UTC",
     "currency": "USd/BU",
     "value": "428.0078"
+  },
+  {
+    "name": "corn",
+    "date": "2026-01-27 02:00:02 UTC",
+    "currency": "USd/BU",
+    "value": "427.7718"
   }
 ]
