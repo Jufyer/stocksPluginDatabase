@@ -28720,5 +28720,11 @@
     "date": "2026-01-30 12:00:02 UTC",
     "currency": "USd/Lbs",
     "value": "14.413"
+  },
+  {
+    "name": "sugar",
+    "date": "2026-01-30 12:30:01 UTC",
+    "currency": "USd/Lbs",
+    "value": "14.4233"
   }
 ]
