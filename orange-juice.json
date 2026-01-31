@@ -28924,5 +28924,11 @@
     "date": "2026-01-31 05:00:01 UTC",
     "currency": "USd/Lbs",
     "value": "211.1"
+  },
+  {
+    "name": "orange-juice",
+    "date": "2026-01-31 05:30:01 UTC",
+    "currency": "USd/Lbs",
+    "value": "211.1"
   }
 ]
